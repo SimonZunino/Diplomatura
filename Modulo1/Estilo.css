@@ -1,0 +1,77 @@
+h1{
+font: arial;
+color:rgba(68, 146, 136, 0.904);
+text-align:center;
+
+
+}
+
+
+.destacado{
+font: italic;
+color: brown;
+padding-inline-start: 12px;
+
+}
+
+h4{
+
+
+    font: italic;
+    color: brown;
+    text-decoration: underline;
+    padding-inline-start: 12px;
+
+
+}
+.basicos{
+    background-color:burlywood;
+text-align: center;
+    border: 1px solid;
+padding: 12px;
+border-radius: 15px;
+width: auto;
+margin-bottom: 15px;
+margin-top: 15px;
+
+
+
+
+
+
+
+
+}
+.basicos ol,
+.basicos ul{text-align: left;
+	display: inline-block;}
+
+
+p{
+color: tomato;
+
+
+
+}
+
+.parent{
+    text-align: center;
+  
+   }
+
+   body{
+background-image: url(32127.jpg);
+
+
+
+}
+
+.parentesis{
+text-align: center;
+
+
+
+
+
+
+}
