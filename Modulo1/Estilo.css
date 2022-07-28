@@ -1,77 +1,39 @@
-h1{
-font: arial;
-color:rgba(68, 146, 136, 0.904);
-text-align:center;
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
 
 
-}
 
-
-.destacado{
-font: italic;
-color: brown;
-padding-inline-start: 12px;
-
-}
-
-h4{
-
-
-    font: italic;
-    color: brown;
-    text-decoration: underline;
-    padding-inline-start: 12px;
-
-
-}
 .basicos{
-    background-color:burlywood;
+text-decoration-color:rgb(0, 0, 0);
+box-shadow: 10px 10px 5px -5px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 10px 5px -5px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px -5px rgba(0,0,0,0.75);
+background: rgba(113,106,75,0.1);
+background: linear-gradient(90deg,rgba(113,106,75,0.1) 0%, rgba(85,52,38,0.21) 30%);
+background: -webkit-linear-gradient(90deg,rgba(113,106,75,0.1) 0%, rgba(85,52,38,0.21) 30%);
+background: -moz-linear-gradient(90deg,rgba(113,106,75,0.1) 0%, rgba(85,52,38,0.21) 30%);
 text-align: center;
-    border: 1px solid;
+font-family: 'Oswald', sans-serif;
 padding: 12px;
-border-radius: 15px;
+border-radius: 25px 0px;
 width: auto;
-margin-bottom: 15px;
-margin-top: 15px;
-
-
-
-
-
-
-
-
+margin-bottom: 20px;
+margin-top: 20px;
+text-align: center;
 }
+
 .basicos ol,
 .basicos ul{text-align: left;
 	display: inline-block;}
 
-
-p{
-color: tomato;
-
-
+body{
+background-image: url(fondo-arte-abstracto-colores-amarillo-oscuro-pintura-acuarela-sobre-lienzo-degradado-textura-naranja-fragmento-obra-arte-papel-patron-ocre-estructura-telon-fondo-macro_113767-5118.jpg);
 
 }
 
 .parent{
-    text-align: center;
-  
-   }
-
-   body{
-background-image: url(32127.jpg);
-
-
-
-}
-
-.parentesis{
 text-align: center;
 
-
-
-
-
-
 }
+
+
+
