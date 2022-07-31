@@ -50,9 +50,9 @@ aside {
 
 
 	#contenedor {
-
+        
 		flex-direction: column;
-		align-items: center;
+		
 		
 	}
 
@@ -67,7 +67,7 @@ aside {
 	}
 
 	section {
-		margin: 0px;
+		
 		width: 100%;
 
 	}
